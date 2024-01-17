@@ -1,5 +1,5 @@
 {
-  "name": "@capacitor/screen-orientation",
+  "name": "kookaat-capacitor-screen-orientation",
   "version": "6.0.2",
   "description": "The Screen Orientation API provides methods to lock and unlock the screen orientation.",
   "main": "dist/plugin.cjs.js",
